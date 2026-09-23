@@ -22,8 +22,11 @@ These are strategic proposals, not systems I built or services Tesla has adopted
 
 ## Files
 
-- [Coursework report](report.pdf) — detailed strategy, analysis and references.
-- [Presentation](presentation.pdf) — overview of Tesla’s digital transformation and the proposed initiatives.
+Add files via upload
+3 minutes ago
+
+- [Coursework report](Tesla_Digital_Transformation_Report.pdf) — detailed strategy, analysis and references.
+- [Presentation](Tesla_Digital_Transformation_Presentation.pdf) — overview of Tesla’s digital transformation and the proposed initiatives.
 
 ## Note
 
