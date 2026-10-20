@@ -36,7 +36,8 @@ and covers revenue models, required skills, risks and regulation.
 ## Other MSc work
 
 - **[Air Quality and Mortality Analysis](https://github.com/sparobanks/Air-Quality-and-Mortality-Analysis):**
-  big data analysis with Apache Spark (PySpark) linking air pollution, deprivation and deaths across areas.
+  a big data pipeline with Hadoop HDFS and Apache Spark comparing air pollution and deaths in Angola
+  and Libya.
 
 ---
 
